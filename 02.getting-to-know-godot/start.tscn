@@ -15,7 +15,7 @@ script = ExtResource("2")
 tile_set = ExtResource("2_vnf5n")
 format = 2
 layer_0/name = "Bridges"
-layer_0/tile_data = PackedInt32Array(-131072, 65536, 1, -131071, 0, 1, -131070, 0, 1, -131069, 131072, 1, -589813, 327680, 1, -524277, 196608, 1, -458741, 262144, 1)
+layer_0/tile_data = PackedInt32Array(-131072, 65536, 1, -131071, 0, 1, -131070, 0, 1, -131069, 131072, 1, -589813, 196608, 1, -524277, 196608, 1, -458741, 196608, 1, -655349, 327680, 1, -393205, 262144, 1)
 metadata/_edit_lock_ = true
 
 [node name="InvisibleWalls" type="TileMap" parent="."]
