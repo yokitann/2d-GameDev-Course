@@ -1,15 +1,5 @@
-2024-03-04T20:18:58:INFO: { "OS": "macOS", "video_adapter_driver_info": [], "screen_size": (2880, 1800), "screen_dpi": 256, "screen_scale": 2, "cores": 8, "locale": "en_US" }
-2024-03-04T20:18:58:INFO: [step_commands: 0]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:18:59:INFO: [step_commands: 1]
+2024-03-04T20:25:21:INFO: { "OS": "macOS", "video_adapter_driver_info": [], "screen_size": (2880, 1800), "screen_dpi": 256, "screen_scale": 2, "cores": 8, "locale": "en_US" }
+2024-03-04T20:25:21:INFO: [step_commands: 0]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -21,43 +11,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:06:INFO: [step_commands: 2]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-
-2024-03-04T20:19:07:INFO: [step_commands: 3]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:09:INFO: [step_commands: 4]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:10:INFO: [step_commands: 5]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:11:INFO: [step_commands: 6]
+2024-03-04T20:25:23:INFO: [step_commands: 1]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -71,11 +25,107 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:13:INFO: [step_commands: 7]
+2024-03-04T20:25:30:INFO: [step_commands: 2]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
 --- Debugging process stopped ---
+
+2024-03-04T20:25:31:INFO: [step_commands: 3]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T20:25:49:INFO: [step_commands: 4]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+
+2024-03-04T20:25:55:INFO: [step_commands: 5]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T20:25:56:INFO: [step_commands: 6]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T20:25:57:INFO: [step_commands: 7]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T20:26:00:INFO: [step_commands: 8]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+
+2024-03-04T20:26:12:INFO: [step_commands: 9]
+Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
+OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
+ 
+--- Debugging process stopped ---
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
+  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
+  If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -87,7 +137,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:14:INFO: [step_commands: 8]
+2024-03-04T20:26:13:INFO: [step_commands: 10]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -96,66 +146,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:14:INFO: [step_commands: 9]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:15:INFO: [step_commands: 10]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:17:INFO: [step_commands: 11]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -171,7 +162,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:17:INFO: [step_commands: 12]
+2024-03-04T20:26:14:INFO: [step_commands: 11]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -180,6 +171,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -197,7 +189,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:18:INFO: [step_commands: 13]
+2024-03-04T20:26:15:INFO: [step_commands: 12]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -206,6 +198,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -225,7 +218,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:19:INFO: [step_commands: 14]
+2024-03-04T20:26:16:INFO: [step_commands: 13]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -234,6 +227,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -255,7 +249,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:25:INFO: [step_commands: 15]
+2024-03-04T20:26:17:INFO: [step_commands: 14]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -264,6 +258,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -287,7 +282,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:26:INFO: [step_commands: 16]
+2024-03-04T20:26:18:INFO: [step_commands: 15]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -296,6 +291,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -321,7 +317,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:27:INFO: [step_commands: 17]
+2024-03-04T20:26:26:INFO: [step_commands: 16]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -330,6 +326,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -357,7 +354,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:31:INFO: [step_commands: 18]
+2024-03-04T20:26:27:INFO: [step_commands: 17]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -366,6 +363,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -395,7 +393,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:32:INFO: [step_commands: 19]
+2024-03-04T20:26:28:INFO: [step_commands: 18]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -404,48 +402,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:19:33:INFO: [step_commands: 20]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -477,7 +434,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:36:INFO: [step_commands: 21]
+2024-03-04T20:26:29:INFO: [step_commands: 19]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -486,8 +443,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -521,7 +477,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:39:INFO: [step_commands: 22]
+2024-03-04T20:26:30:INFO: [step_commands: 20]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -530,8 +486,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -567,7 +522,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 
-2024-03-04T20:19:43:INFO: [step_commands: 23]
+2024-03-04T20:26:33:INFO: [step_commands: 21]
 Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
 OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
  
@@ -576,6 +531,7 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
+  scene/resources/resource_format_text.cpp:448 - res://tours/102_assemble_your_first_game/03_add_sky_and_healthbar/start.tscn:7 - ext_resource, invalid UID: uid://dq3p4x4do28l6 - using text path instead: res://levels/rooms/room_a.tscn
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
@@ -610,404 +566,6 @@ OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibil
   If you want to set size, change the anchors or consider using set_deferred().
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:20:29:INFO: [step_commands: 24]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:20:30:INFO: [step_commands: 25]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:20:31:INFO: [step_commands: 26]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:20:56:INFO: [step_commands: 25]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:21:00:INFO: [step_commands: 26]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-
-2024-03-04T20:21:21:INFO: [step_commands: 25]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-Connect 'health_changed' to '_on_health_changed'
-Disconnect 'health_changed' from '_on_health_changed'
-
-2024-03-04T20:21:24:INFO: [step_commands: 26]
-Godot Engine v4.2.stable.official.46dc27791 - https://godotengine.org
-OpenGL API OpenGL ES 3.0.0 (ANGLE 2.1.21969 git hash: 9528449a8930) - Compatibility - Using Device: Google Inc. (Apple) - ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Version 13.5.1 (Build 22G90))
- 
---- Debugging process stopped ---
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-  scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
-  If you want to set size, change the anchors or consider using set_deferred().
-Connect 'health_changed' to '_on_health_changed'
-Disconnect 'health_changed' from '_on_health_changed'
   scene/gui/control.cpp:1440 - Nodes with non-equal opposite anchors will have their size overridden after _ready(). 
   If you want to set size, change the anchors or consider using set_deferred().
 

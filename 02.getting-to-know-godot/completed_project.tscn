@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://cfay3xheebusb"]
+[gd_scene load_steps=14 format=3 uid="uid://cfay3xheebusb"]
 
 [ext_resource type="Script" path="res://game.gd" id="1_25vm7"]
 [ext_resource type="Texture2D" uid="uid://51k2u7iwra8e" path="res://levels/rooms/tileset_bridges.png" id="2_lrrw3"]
@@ -10,6 +10,7 @@
 [ext_resource type="PackedScene" uid="uid://dw1qted83s8gw" path="res://pickups/weapon_pickup.tscn" id="6_w1fjs"]
 [ext_resource type="PackedScene" uid="uid://cq0mmphkbrvmm" path="res://levels/rooms/room_c.tscn" id="7_g7cph"]
 [ext_resource type="PackedScene" path="res://pickups/health_pickup.tscn" id="7_uk5d2"]
+[ext_resource type="PackedScene" uid="uid://wdey00p3syru" path="res://levels/background/background_blue_sky.tscn" id="11_7e8yr"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_po4yl"]
 texture = ExtResource("2_lrrw3")
@@ -112,5 +113,7 @@ position = Vector2(2304, 256)
 
 [node name="RoomC" parent="." instance=ExtResource("7_g7cph")]
 position = Vector2(1792, -2048)
+
+[node name="BackgroundBlueSky" parent="." instance=ExtResource("11_7e8yr")]
 
 [connection signal="health_changed" from="Player" to="UILayer/UIHealthBar" method="set_health"]
