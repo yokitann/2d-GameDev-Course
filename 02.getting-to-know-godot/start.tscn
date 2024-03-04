@@ -1,4 +1,4 @@
-[gd_scene load_steps=9 format=3 uid="uid://dfrp0km2xjcr6"]
+[gd_scene load_steps=10 format=3 uid="uid://dfrp0km2xjcr6"]
 
 [ext_resource type="Script" path="res://game.gd" id="2"]
 [ext_resource type="TileSet" uid="uid://crkgfdw1y80hc" path="res://levels/rooms/tileset_bridges.tres" id="2_vnf5n"]
@@ -8,6 +8,7 @@
 [ext_resource type="PackedScene" uid="uid://dgayuh42w4v6u" path="res://levels/rooms/room_b.tscn" id="6_wk552"]
 [ext_resource type="PackedScene" uid="uid://cq0mmphkbrvmm" path="res://levels/rooms/room_c.tscn" id="7_dhn1x"]
 [ext_resource type="PackedScene" uid="uid://wdey00p3syru" path="res://levels/background/background_blue_sky.tscn" id="8_wmdku"]
+[ext_resource type="PackedScene" uid="uid://cce7r30dfjm4r" path="res://interface/bars/ui_health_bar.tscn" id="9_tkpuy"]
 
 [node name="Start" type="Node2D"]
 script = ExtResource("2")
@@ -39,3 +40,11 @@ position = Vector2(512, -768)
 position = Vector2(256, -2560)
 
 [node name="BackgroundBlueSky" parent="." instance=ExtResource("8_wmdku")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="UIHealthBar" parent="CanvasLayer" instance=ExtResource("9_tkpuy")]
+offset_left = 60.0
+offset_top = 60.0
+offset_right = 378.0
+offset_bottom = 132.725
