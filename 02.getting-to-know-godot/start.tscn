@@ -48,3 +48,5 @@ offset_left = 60.0
 offset_top = 60.0
 offset_right = 378.0
 offset_bottom = 132.725
+
+[connection signal="health_changed" from="Player" to="CanvasLayer/UIHealthBar" method="_on_player_health_changed"]
