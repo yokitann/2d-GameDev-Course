@@ -72,3 +72,7 @@ func set_health(new_health: int) -> void:
 
 func _on_ExitDetector2D_area_entered(_area: Area2D) -> void:
 	get_tree().reload_current_scene()
+
+
+func _on_health_changed(new_health):
+	pass # Replace with function body.
